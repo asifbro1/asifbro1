@@ -9,7 +9,7 @@ asifbro1/asifbro1 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <!---
-<h1 align="center">Hi 👋, I'm Asmit</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Asif</h1>
 <h3 align="center">I'm an avid Data Scientist and Blockchain Developer.Everyday is a learning day for me.</h3>
 
 - 🌱 I’m currently learning **Smart Contracts development.**
